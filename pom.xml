@@ -29,39 +29,22 @@
         <module>Lesson12</module>
         <module>Lesson13</module>
         <module>Lesson14</module>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 8d920924748e7fe5691faebb96c58635657b1d45
-=======
->>>>>>> Lesson29
         <module>Lesson15</module>
         <module>Lesson16</module>
         <module>Lesson17.18</module>
         <module>Lesson19</module>
         <module>Lesson20</module>
-<<<<<<< HEAD
         <module>Lesson20</module>
         <module>Lesson22</module>
-<<<<<<< HEAD
         <module>Lesson27</module>
-=======
->>>>>>> Lesson22
-=======
         <module>Lesson20</module>
         <module>Lesson22</module>
         <module>Lesson24</module>
->>>>>>> Lesson24
->>>>>>> 8d920924748e7fe5691faebb96c58635657b1d45
-=======
         <module>Lesson20</module>
         <module>Lesson22</module>
         <module>Lesson29</module>
+        <module>Lesson42</module>
 
->>>>>>> Lesson29
     </modules>
 
     <dependencies>
@@ -91,18 +74,6 @@
             <version>8.0.28</version>
         </dependency>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> Lesson24
-=======
->>>>>>> Lesson29
-        <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
->>>>>>> 8d920924748e7fe5691faebb96c58635657b1d45
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>
@@ -115,18 +86,7 @@
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
-
-<<<<<<< HEAD
->>>>>>> Lesson22
-=======
->>>>>>> Lesson24
->>>>>>> 8d920924748e7fe5691faebb96c58635657b1d45
-=======
->>>>>>> Lesson29
     </dependencies>
 
 </project>
